@@ -1,0 +1,41 @@
+[  {
+    "id": 0,
+    "name": "Jeddah",
+    "position": {
+      "lat": 21.511564,
+      "lng": 39.2079536
+    }
+  },
+  {
+    "id": 1,
+    "name": "Riyadh",
+    "position": {
+      "lat": 24.7242691,
+      "lng": 46.6898831
+    }
+  },
+  {
+    "id": 2,
+    "name": "Qassim",
+    "position": {
+      "lat": 26.3340385,
+      "lng": 43.9617712
+    }
+  },
+  {
+    "id": 3,
+    "name": "Makkah",
+    "position": {
+      "lat": 21.4231702,
+      "lng": 39.8252226
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dammam",
+    "position": {
+      "lat": 26.4498922,
+      "lng": 50.0934986
+    }
+  }
+]
